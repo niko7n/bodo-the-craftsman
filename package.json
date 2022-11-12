@@ -1,6 +1,6 @@
 {
   "name": "bodo-the-craftsman",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Adds a console.bob() function that displays ASCII art of Bodo the Craftsman",
   "main": "index.js",
   "scripts": {
