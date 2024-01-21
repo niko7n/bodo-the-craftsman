@@ -15,4 +15,13 @@ console.bob("Hello world!");
 console.bob("Hello world!", "angry");
 ```
 
-Currently, there are two available variants: "regular" and "angry". If no variant is specified, a random one is picked based on predetermined probabilities instead.
+If no variant is specified, a random one is picked based on predetermined probabilities instead. Currently, the following variants are available:
+| Variant | Probability |
+|---------|-------------|
+| regular | 45%         |
+| angry   | 9%          |
+| cringe  | 9%          |
+| eyeless | 5%          |
+| gimp    | 5%          |
+| sad     | 23%         |
+| torn    | 5%          |
